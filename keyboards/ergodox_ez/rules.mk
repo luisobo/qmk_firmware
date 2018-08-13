@@ -17,6 +17,7 @@
 # # project specific files
 SRC = matrix.c \
   i2c_master.c
+SRC += luisobo.c
 
 # MCU name
 MCU = atmega32u4
